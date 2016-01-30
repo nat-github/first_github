@@ -1,0 +1,17 @@
+F:\Visula Studio projects\Alert_handle\Alert_handle\bin\Debug\Alert_handle.exe
+F:\Visula Studio projects\Alert_handle\Alert_handle\bin\Debug\Alert_handle.pdb
+F:\Visula Studio projects\Alert_handle\Alert_handle\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+F:\Visula Studio projects\Alert_handle\Alert_handle\bin\Debug\ThoughtWorks.Selenium.Core.dll
+F:\Visula Studio projects\Alert_handle\Alert_handle\bin\Debug\WebDriver.dll
+F:\Visula Studio projects\Alert_handle\Alert_handle\bin\Debug\WebDriver.Support.dll
+F:\Visula Studio projects\Alert_handle\Alert_handle\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+F:\Visula Studio projects\Alert_handle\Alert_handle\bin\Debug\ThoughtWorks.Selenium.Core.xml
+F:\Visula Studio projects\Alert_handle\Alert_handle\bin\Debug\WebDriver.pdb
+F:\Visula Studio projects\Alert_handle\Alert_handle\bin\Debug\WebDriver.xml
+F:\Visula Studio projects\Alert_handle\Alert_handle\bin\Debug\WebDriver.Support.pdb
+F:\Visula Studio projects\Alert_handle\Alert_handle\bin\Debug\WebDriver.Support.xml
+F:\Visula Studio projects\Alert_handle\Alert_handle\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+F:\Visula Studio projects\Alert_handle\Alert_handle\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+F:\Visula Studio projects\Alert_handle\Alert_handle\obj\Debug\ResolveAssemblyReference.cache
+F:\Visula Studio projects\Alert_handle\Alert_handle\obj\Debug\Alert_handle.exe
+F:\Visula Studio projects\Alert_handle\Alert_handle\obj\Debug\Alert_handle.pdb
